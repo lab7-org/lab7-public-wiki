@@ -1,4 +1,8 @@
-## OpenStreetMap projects list
+---
+title: "OpenStreetMap projects list"
+---
+
+## Projects
 
 - Обход маршрута
 	- [OSM Walkthrough](https://github.com/leotrubach/osmwalkthrough)

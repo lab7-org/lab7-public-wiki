@@ -1,3 +1,7 @@
+---
+title: "Home Page"
+---
+
 # 🌍 LAB7 Wiki
 
 ## ℹ️ About this wiki
