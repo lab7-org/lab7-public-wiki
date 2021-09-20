@@ -16,3 +16,8 @@ title: "Home Page"
 ### OpenStreetMap (OSM)
 
 - [osm-projects-list](notes/osm-projects-list.md)
+
+
+### Inbox
+
+- [traffic-collision](notes/traffic-collision.md)
