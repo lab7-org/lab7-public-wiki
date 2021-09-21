@@ -16,6 +16,7 @@ title: "Home Page"
 ### OpenStreetMap (OSM)
 
 - [osm-projects-list](notes/osm-projects-list.md)
+- [Как запустить OSM конкурс](notes/howto-launch-osm-challenge.md)
 
 
 ### Inbox
