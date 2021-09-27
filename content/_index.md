@@ -19,6 +19,7 @@ title: "Home Page"
 - [osm-projects-list](notes/osm-projects-list.md)
 - [Как запустить OSM конкурс](notes/howto-launch-osm-challenge.md)
 	- [Конкурс OSM в 163 городах РФ от 100К 2021-09-10](notes/osm-competition-2021-09-10.md)
+- [Проект OSM. Томск](notes/osm-project-tomsk.md)
 
 
 ### Inbox
